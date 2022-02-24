@@ -1,3 +1,4 @@
+# random variables given to the value
 pb = "Electronic Phone Book"
 print(pb)
 lk = "1. Look up an entry"
@@ -9,8 +10,9 @@ print(de)
 le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
+# will print "4" to give the output List all entries
 input("What do you want to do (1-5)?")
-print( "List all entry")
+print( "List all entries")
 txt = "Found entry for Pearl 865-265-2022"
 print(txt)
 run = "Found entry for Bill 252-267-9097"
