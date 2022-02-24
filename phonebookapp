@@ -10,11 +10,12 @@ print(de)
 le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
-# output will be "1"
+# output will be "2"
 input("What do you want to do (1-5)?")
-print( "Look up an entry")
-# set output to be print Pam
-input("Name:")
-print("Found entry for:")
-input("Pam 525-103-9294")
+print( "Set an entry")
+# set output to be print Earl
+input("Name for:")
+print("Entry stored for:")
+input("Earl 605-103-9294")
 
+    
