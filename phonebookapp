@@ -10,9 +10,9 @@ le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
 input("What do you want to do (1-5)?")
-print( "Delete an entry")
-input("Name:")
-print("Deleted entry for Bob")
-input("Search for? ")
-print("Byron,Phone Number: 245-456-0220")
+print( "List all entry")
+txt = "Found entry for Pearl 865-265-2022"
+print(txt)
+run = "Found entry for Bill 252-267-9097"
+print(run)
 
