@@ -17,5 +17,6 @@ print( "Set an entry")
 input("Name for:")
 print("Entry stored for:")
 input("Earl 605-103-9294")
+# cutted the original
 
     
