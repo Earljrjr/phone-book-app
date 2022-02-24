@@ -10,8 +10,7 @@ le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
 input("What do you want to do (1-5)?")
-print( "Look up an entry")
+print( "Set an entry")
 input("Name:")
-print("Found entry for:")
-input("Pam 525-103-9294")
-
+print("Phone Number: 726-556-0220")
+input("Entry stored for Tom")
