@@ -1,3 +1,4 @@
+# random variables given too vaules 
 pb = "Electronic Phone Book"
 print(pb)
 lk = "1. Look up an entry"
@@ -9,10 +10,13 @@ print(de)
 le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
+# output to print "3"
 input("What do you want to do (1-5)?")
 print( "Delete an entry")
+# name to be output BoB
 input("Name:")
 print("Deleted entry for Bob")
+# will print Byron
 input("Search for? ")
 print("Byron,Phone Number: 245-456-0220")
 
