@@ -10,7 +10,9 @@ le = "4. List all entries"
 qt = "5. Quit"
 print(qt)
 input("What do you want to do (1-5)?")
-print( "Set an entry")
+print( "Delete an entry")
 input("Name:")
-print("Phone Number: 726-556-0220")
-input("Entry stored for Tom")
+print("Deleted entry for Bob")
+input("Search for? ")
+print("Byron,Phone Number: 245-456-0220")
+
