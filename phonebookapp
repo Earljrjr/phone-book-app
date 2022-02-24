@@ -13,7 +13,8 @@ qt = "5. Quit"
 print(qt)
 # prints 1
 input("What do you want to do (1-5)?")
-print( "Look up an entry")
+print( "Look up an entry for ?")
+# prints list of entries list
 def my_function (who):
     print(who)
 
@@ -21,9 +22,11 @@ my_function("Heather")
 my_function("Jessica")
 my_function("Pam")
 
+# output space
+print(" ")
 # prints Pam
 input("Name:")
 print("Found entry for:")
-input("Pam 525-103-9294")
+print("Pam 525-103-9294")
 
 	
