@@ -1,0 +1,17 @@
+pb = "Electronic Phone Book"
+print(pb)
+lk = "1. Look up an entry"
+print(lk)
+se = "2. Set an entry"
+print(se)
+de = "3. Delete an entry"
+print(de)
+le = "4. List all entries"
+qt = "5. Quit"
+print(qt)
+input("What do you want to do (1-5)?")
+print( "Look up an entry")
+input("Name:")
+print("Found entry for:")
+input("Pam 525-103-9294")
+
