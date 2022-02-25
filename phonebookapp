@@ -18,15 +18,15 @@ print( "Look up an entry for ?")
 def my_function (who):
     print(who)
 
-my_function("Heather")
-my_function("Jessica")
-my_function("Pam")
+my_function("Pam Johnson")
+my_function("Pam Smith")
+my_function("Pam Rhodes")
 
 # output space
 print(" ")
 # prints Pam
 input("Name:")
 print("Found entry for:")
-print("Pam 525-103-9294")
+print("Pam Smith 525-103-9294")
 
 	
