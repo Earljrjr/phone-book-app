@@ -24,7 +24,7 @@ my_function("Pam Rhodes")
 
 # output space
 print(" ")
-# prints Pam
+# prints Pam Smith
 input("Name:")
 print("Found entry for:")
 print("Pam Smith 525-103-9294")
